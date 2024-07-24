@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @michaelbarkasi
-- 👀 I’m interested in human motion control, bikes, and perception
-- 🌱 I’m currently learning embedded systems, C++, R, and Python. 
-- 💞️ I’m looking to collaborate on movement sonification, deep learning for embedded systems, and multisensory integration in perception and motor control. 
-- 📫 How to reach me: michael.barkasi@gmail.com
+- 👀 I’m interested in computational neuroscience, high-performance computing, and human motor control.
+- 🌱 I’m currently learning neural circuit modelling.
+- 💞️ I’m looking to collaborate on any of the above.
+- 📫 How to reach me: barkasi@wustl.edu
 - michaelbarkasi.com
 
 <!---
