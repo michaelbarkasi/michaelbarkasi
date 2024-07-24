@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelbarkasi
 - 👀 I’m interested in computational neuroscience, high-performance computing, and human motor control.
-- 🌱 I’m currently learning neural circuit modelling.
+- 🌱 I’m currently learning neural circuit modelling, MERFISH, and KiloSort4.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me: barkasi@wustl.edu
 - michaelbarkasi.com
