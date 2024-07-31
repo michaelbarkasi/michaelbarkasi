@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning neural circuit modelling, MERFISH, and KiloSort4.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me: barkasi@wustl.edu
-- michaelbarkasi.com
+- https://www.michaelbarkasi.com
 
 <!---
 michaelbarkasi/michaelbarkasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
